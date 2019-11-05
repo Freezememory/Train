@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SSM:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a36eb771-ea3c-4bba-a95f-83e04566b75c" name="默认" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>queryById</find>
+    </findStrings>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/maven3" />
+        <option name="userSettingsFile" value="F:\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RGT7QUmsfFuDenxmRmKvQ4npgn" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea\projects\SSM\src\main\webapp\static\img" />
+      <recent name="F:\idea\projects\SSM\src\main\webapp\file" />
+      <recent name="F:\idea\projects\SSM\src\main\webapp\static\jQuery" />
+      <recent name="F:\idea\projects\SSM\src\main\webapp\WEB-INF" />
+      <recent name="F:\idea\projects\SSM\src\main\java\com\wlj\crawler" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wlj.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\idea\projects\SSM\src\main\webapp\WEB-INF\jsp" />
+      <recent name="F:\idea\projects\SSM\src\main\webapp\WEB-INF" />
+      <recent name="F:\idea\projects\SSM\src\main\webapp\static" />
+      <recent name="F:\idea\projects\SSM\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ExcelTest">
+    <configuration name="Graphics_drawImage" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphics_drawImage" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThermometerTest" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThermometerTest" />
+      <module name="SSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wlj.utils.ExcelTest" />
+      <module name="SSM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wlj.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wlj.crawler.TrainCrawler" />
+      <module name="SSM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wlj.crawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="所有在 SSM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSM" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SSM:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SSM" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="未命名_SSM_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64822" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSM:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Applet.ThermometerTest" />
+      <item itemvalue="Applet.Graphics_drawImage" />
+      <item itemvalue="Application.TrainCrawler" />
+      <item itemvalue="JUnit.所有在 SSM" />
+      <item itemvalue="Tomcat Server.SSM" />
+      <item itemvalue="Application.ExcelTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExcelTest" />
+        <item itemvalue="Applet.Graphics_drawImage" />
+        <item itemvalue="Applet.ThermometerTest" />
+        <item itemvalue="Application.TrainCrawler" />
+        <item itemvalue="JUnit.所有在 SSM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a36eb771-ea3c-4bba-a95f-83e04566b75c" name="默认" comment="" />
+      <created>1552963602410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552963602410</updated>
+      <workItem from="1552963606910" duration="18146000" />
+      <workItem from="1553044351330" duration="15362000" />
+      <workItem from="1553130299357" duration="8036000" />
+      <workItem from="1553138373944" duration="460000" />
+      <workItem from="1553138930063" duration="331000" />
+      <workItem from="1553139305697" duration="1639000" />
+      <workItem from="1553149330136" duration="12974000" />
+      <workItem from="1553217855966" duration="14477000" />
+      <workItem from="1553476551147" duration="10827000" />
+      <workItem from="1553498417073" duration="22042000" />
+      <workItem from="1553571976329" duration="16466000" />
+      <workItem from="1553647406295" duration="23585000" />
+      <workItem from="1553734201010" duration="13331000" />
+      <workItem from="1553821826413" duration="20441000" />
+      <workItem from="1554009790730" duration="2699000" />
+      <workItem from="1554081730579" duration="43000" />
+      <workItem from="1554081988594" duration="7529000" />
+      <workItem from="1554100088985" duration="5630000" />
+      <workItem from="1554165502661" duration="1226000" />
+      <workItem from="1554274124625" duration="10631000" />
+      <workItem from="1554343282177" duration="16786000" />
+      <workItem from="1554688628313" duration="14985000" />
+      <workItem from="1554771824486" duration="6386000" />
+      <workItem from="1554950390128" duration="5923000" />
+      <workItem from="1555039140014" duration="6563000" />
+      <workItem from="1555379238276" duration="5149000" />
+      <workItem from="1555482804968" duration="4675000" />
+      <workItem from="1555574340885" duration="4090000" />
+      <workItem from="1555902311987" duration="4595000" />
+      <workItem from="1556008884650" duration="10322000" />
+      <workItem from="1556068876065" duration="12355000" />
+      <workItem from="1556173817653" duration="10460000" />
+      <workItem from="1556413895527" duration="2368000" />
+      <workItem from="1556966237966" duration="4879000" />
+      <workItem from="1557286133824" duration="1757000" />
+      <workItem from="1557641795887" duration="2121000" />
+      <workItem from="1558849185459" duration="2943000" />
+      <workItem from="1559059345892" duration="5884000" />
+      <workItem from="1559141159294" duration="3423000" />
+      <workItem from="1559175722182" duration="3061000" />
+      <workItem from="1562549222197" duration="3136000" />
+      <workItem from="1567562544943" duration="586000" />
+      <workItem from="1567563523150" duration="991000" />
+      <workItem from="1569292266669" duration="2508000" />
+      <workItem from="1571035578712" duration="3225000" />
+      <workItem from="1571735435597" duration="3774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="所有在_SSM - 2019.03.19 at 15h 16m 44s.xml">
+      <configuration name="所有在 SSM" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="所有在_SSM - 2019.03.19 at 15h 17m 36s.xml">
+      <configuration name="所有在 SSM" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="所有在_SSM - 2019.03.19 at 15h 28m 19s.xml">
+      <configuration name="所有在 SSM" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="所有在_SSM - 2019.03.19 at 17h 29m 40s.xml">
+      <configuration name="所有在 SSM" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="im5" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>trainInformation</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userService.login(user) != null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
